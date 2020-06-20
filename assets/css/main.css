@@ -1841,7 +1841,7 @@ input, select, textarea {
 		}
 
 		.box.style1 {
-			background: rgb(181, 233, 233);
+			background: rgb(213, 236, 236);
 			padding: 3em;
 		}
 
@@ -1898,7 +1898,7 @@ input, select, textarea {
 
 			.box.style2 header {
 				display: inline-block;
-				background: rgb(181, 233, 233);
+				background:rgb(213, 236, 236);
 				padding: 2em 3em 2em 3em;
 				margin: 0;
 			}
