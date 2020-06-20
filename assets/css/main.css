@@ -163,11 +163,11 @@ input, select, textarea {
 		color: #35b88f;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
+		border-bottom: dotted 1px  rgba(78, 17, 221, 0.5);
 	}
 
 		a:hover {
-			border-bottom-color: rgba(53, 184, 143, 0);
+			border-bottom-color:  rgba(8, 92, 1, 0);
 		}
 
 	sub {
@@ -1898,7 +1898,7 @@ input, select, textarea {
 
 			.box.style2 header {
 				display: inline-block;
-				background: #fff;
+				background: rgb(213, 236, 236);
 				padding: 2em 3em 2em 3em;
 				margin: 0;
 			}
@@ -1943,7 +1943,7 @@ input, select, textarea {
 				}
 
 		.box.style3 {
-			background: #fff;
+			background: rgb(213, 236, 236);
 			padding: 3em;
 		}
 
