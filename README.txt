@@ -1,2 +1,3 @@
-<h1>This is my Portfolio : </h1>
-https://mjay4.github.io/
+# My Portfolio :
+
+To access the website in action : https://mjay4.github.io/
